@@ -5,6 +5,9 @@
  */
 package mrtester;
 
+import model.Student;
+import model.Student1;
+
 /**
  *
  * @author komyo
@@ -16,6 +19,18 @@ public class MrTester {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-    }
     
+    }
+//
+//    public class Studenta {
+//
+//        public String name;
+//        public String age;
+//    }
+//
+//    public class Teacher {
+//
+//        public String name;
+//        public String add;
+//    }
 }
